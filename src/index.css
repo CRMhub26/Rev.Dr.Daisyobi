@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-serif-title {
+    font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  }
+  .font-display {
+    font-family: "Playfair Display", "Cormorant Garamond", Georgia, serif;
+  }
+  .font-signature {
+    font-family: "Great Vibes", cursive;
+  }
+  .font-sans-body {
+    font-family: "Inter", "Lato", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  .font-lato {
+    font-family: "Lato", "Inter", sans-serif;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background-color: rgba(212, 175, 55, 0.3);
+  color: #1E3A8A;
+}

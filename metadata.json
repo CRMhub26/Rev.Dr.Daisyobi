@@ -1,0 +1,8 @@
+{
+  "name": "Rev. Dr. Daisy Obi — Author, Speaker & Inspirational Mentor",
+  "description": "Official website of Rev. Dr. Daisy Obi. Author of Psalm 91 Ninety-One Times, Speaker, Teacher of the Bible, Radio Host, and Founder of Adonai Bible Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
