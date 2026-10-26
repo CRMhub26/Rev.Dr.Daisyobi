@@ -38,7 +38,7 @@ export const AboutSection: React.FC = () => {
             className="relative rounded-3xl overflow-hidden shadow-2xl border-2 border-[#C9A227]/40 bg-stone-100 group"
           >
             <img
-              src="/assets/aistudio/image_368196f5.png"
+              src="/assets/worship_six_collage.jpg"
               alt="Community Worship, Prayer, and Fellowship"
               className="w-full h-auto object-cover"
               referrerPolicy="no-referrer"
